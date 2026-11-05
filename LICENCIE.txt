@@ -1,0 +1,13 @@
+Dictato - použité diela tretích strán
+
+Model reči: parakeet-tdt-0.6b-v3-sk
+  Autor: KInIT (Kempelenov inštitút inteligentných technológií), https://huggingface.co/kinit/parakeet-tdt-0.6b-v3-sk
+  Odvodené od: NVIDIA parakeet-tdt-0.6b-v3 (c) NVIDIA
+  Licencia: Creative Commons Attribution 4.0 (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+  Zmeny: prevedené do formátu Core ML a váhy kódera kvantované na int8 (Dictato, 2026).
+
+FluidAudio (spúšťanie modelu na Neural Engine)
+  https://github.com/FluidInference/FluidAudio, licencia Apache 2.0
+
+Písmo Instrument Sans
+  Licencia SIL Open Font License 1.1 (súbor OFL.txt)
