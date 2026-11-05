@@ -9,6 +9,13 @@ Vytvoril [Marián Šaray](https://mariansaray.sk/?utm_source=dictato&utm_medium=
 
 ---
 
+## Stiahnuť
+
+### [Stiahnuť Dictato.dmg](https://github.com/mariansaray/dictato/releases/latest/download/Dictato.dmg)
+
+Vždy najnovšia verzia, cca 24 MB. Postup pre DMG je nižšie v časti *Inštalácia bez Terminálu*.
+Jednoduchšia cesta bez varovaní od Macu je príkaz do Terminálu:
+
 ## Inštalácia (1 minúta)
 
 1. Otvor **Terminál** (stlač ⌘ + medzera, napíš *Terminál* a stlač Enter).
@@ -36,6 +43,7 @@ Hotovo. Ďalšie verzie ti Dictato ponúkne samo, stačí kliknúť *Aktualizova
 - **Ťukni** ⌥S, hovor, **ťukni** znova: text sa prepíše a vloží.
 - Alebo ⌥S **podrž**, hovor a **pusti**.
 - Text ostáva aj v schránke (⌘V) a v histórii, kde ho môžeš upraviť, prehrať si nahrávku alebo ho dať opraviť cez AI.
+- Zvuk diktátov sa drží 7 dní, potom sa sám zmaže a text ostane. V Nastaveniach zvolíš inú dobu, *Navždy* alebo *Neukladať*.
 - Skratku, mikrofón a vlastný slovník mien zmeníš v Nastaveniach.
 
 ## Prepis súborov
