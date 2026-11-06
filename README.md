@@ -45,6 +45,7 @@ Hotovo. Ďalšie verzie ti Dictato ponúkne samo, stačí kliknúť *Aktualizova
 - Text ostáva aj v schránke (⌘V) a v histórii, kde ho môžeš upraviť, prehrať si nahrávku alebo ho dať opraviť cez AI.
 - Zvuk diktátov sa drží 7 dní, potom sa sám zmaže a text ostane. V Nastaveniach zvolíš inú dobu, *Navždy* alebo *Neukladať*.
 - Skratku, mikrofón a vlastný slovník mien zmeníš v Nastaveniach.
+- AI oprava funguje s Claude aj GPT: v Nastaveniach vlož svoj kľúč (tlačidlo *Kde vziať kľúč* ťa zavedie, kde ho vytvoriť).
 
 ## Prepis súborov
 
@@ -64,8 +65,8 @@ bežne používaný viacjazyčný model Parakeet v3 na tých istých nahrávkach
 ## Súkromie
 
 Nahrávanie a prepis prebiehajú len na tvojom Macu. Na internet sa Dictato pripája iba kvôli
-aktualizáciám a stiahnutiu modelu. Tlačidlo *Opraviť cez AI* pošle text do Claude (Anthropic)
-len keď ho stlačíš a len s tvojím vlastným kľúčom.
+aktualizáciám a stiahnutiu modelu. Tlačidlo *Opraviť cez AI* pošle text do Claude (Anthropic) alebo
+GPT (OpenAI), podľa tvojej voľby, len keď ho stlačíš a len s tvojím vlastným kľúčom.
 
 ## Licencie
 
