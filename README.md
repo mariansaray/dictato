@@ -64,9 +64,22 @@ bežne používaný viacjazyčný model Parakeet v3 na tých istých nahrávkach
 
 ## Súkromie
 
-Nahrávanie a prepis prebiehajú len na tvojom Macu. Na internet sa Dictato pripája iba kvôli
-aktualizáciám a stiahnutiu modelu. Tlačidlo *Opraviť cez AI* pošle text do Claude (Anthropic) alebo
-GPT (OpenAI), podľa tvojej voľby, len keď ho stlačíš a len s tvojím vlastným kľúčom.
+Nahrávanie a prepis prebiehajú len na tvojom Macu. Tvoj hlas ani text nikam neodchádzajú.
+Na internet sa Dictato pripája len v týchto prípadoch:
+
+- **Aktualizácie a stiahnutie modelu.**
+- **Opraviť cez AI:** pošle text do Claude (Anthropic) alebo GPT (OpenAI), podľa tvojej voľby,
+  len keď tlačidlo stlačíš a len s tvojím vlastným kľúčom.
+- **Anonymné počty používania:** aby autor videl, koľko ľudí Dictato používa, appka raz za čas pošle len čísla:
+  koľko diktátov, sekúnd diktovania, prepisov súborov a AI opráv bolo za deň, verziu Dictata a macOS a typ procesora.
+  Inštaláciu označuje náhodné číslo, ktoré nie je spojené s tebou ani s tvojím Macom. Neposiela sa text, zvuk,
+  meno ani e-mail a k číslam sa neukladá ani adresa, z ktorej sa Mac pripája. Vypneš to v Nastaveniach, v časti *Súkromie*.
+- **Spätná väzba:** keď v karte *Spätná väzba* sám napíšeš správu, odošle sa autorovi spolu s verziou Dictata,
+  macOS a typom procesora (a s tvojím e-mailom, ak ho vyplníš). Správa nie je spojená s anonymnými počtami.
+
+## Niečo nefunguje alebo ti niečo chýba?
+
+V Dictate otvor kartu **Spätná väzba** a napíš. Správa príde priamo autorovi.
 
 ## Licencie
 
